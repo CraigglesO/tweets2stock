@@ -1,5 +1,7 @@
 # tweets2stock [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/tweets2stock.svg)](https://greenkeeper.io/)
+
 [travis-image]: https://travis-ci.org/CraigglesO/tweets2stock.svg?branch=master
 [travis-url]: https://travis-ci.org/CraigglesO/tweets2stock
 [npm-image]: https://img.shields.io/npm/v/tweets2stock.svg
